@@ -41,13 +41,6 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arxhive55&repo=NekitoRecoded&theme=tokyonight" width="350"/>
       </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Arxhive55/arxhive55.github.io">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arxhive55&repo=arxhive.github.io&theme=tokyonight" width="350"/>
-      </a>
-    </td>
 </table>
 
 ---
