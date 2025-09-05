@@ -22,7 +22,7 @@
 
 <h2 align="center">🛠️ Tech Stack</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,csharp,linux,py,nodejs,html,css,github,md&perline=8" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=java,cs,linux,arch,py,nodejs,html,css,github,md,ps,pr,raspberrypi,vscode&perline=8" alt="Tech Stack"/>
 </p>
 
 ---
